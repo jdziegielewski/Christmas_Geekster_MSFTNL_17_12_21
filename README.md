@@ -14,3 +14,5 @@
 6. I want to know where Santa is (and know when I can expect my package)
 	
 8. I want voice support (i.e. make a wishlist or check where Santa is)
+
+!!!!!!!!!!!!!Fulfil at least 2 of these requirements!!!!!!!!!!!!
